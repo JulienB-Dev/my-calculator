@@ -1,0 +1,21 @@
+[
+  { "label": "C","value": "C", "type": "action", "bind": "Escape" },
+  { "label": "+-", "value": "+-", "type": "action", "bind": "" },
+  { "label": "%", "value": "%", "type": "action", "bind": "%" },
+  { "label": "÷", "value": "/", "type": "operator", "bind": "/" },
+  { "label": "7", "value": 7, "type": "number", "bind": "7" },
+  { "label": "8", "value": 8, "type": "number", "bind": "8" },
+  { "label": "9", "value": 9, "type": "number", "bind": "9" },
+  { "label": "x", "value": "*", "type": "operator", "bind": "*" },
+  { "label": "4", "value": 4, "type": "number", "bind": "4" },
+  { "label": "5", "value": 5, "type": "number", "bind": "5" },
+  { "label": "6", "value": 6, "type": "number", "bind": "6" },
+  { "label": "-", "value": "-", "type": "operator", "bind": "-" },
+  { "label": "1", "value": 1, "type": "number", "bind": "1" },
+  { "label": "2", "value": 2, "type": "number", "bind": "2" },
+  { "label": "3", "value": 3, "type": "number", "bind": "3" },
+  { "label": "+", "value": "+", "type": "operator", "bind": "+" },
+  { "label": "0", "value": 0, "type": "number", "bind": "0" },
+  { "label": ".", "value": ".", "type": "number", "bind": "," },
+  { "label": "=", "value": "=", "type": "validate", "bind": "Enter" }
+]
