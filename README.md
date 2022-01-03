@@ -1,3 +1,14 @@
+# Context
+
+## Creation of a calculator.
+
+### To do for improvement
+
+- Add tests for `calcUtils` file.
+- Transform all Javascript in Typescript
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
