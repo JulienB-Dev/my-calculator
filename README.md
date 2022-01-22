@@ -2,6 +2,8 @@
 
 ## Creation of a calculator.
 
+[View a demo](https://jb-my-calculator.netlify.app/)
+
 ### To do for improvement
 
 - Add tests for `calcUtils` file.
